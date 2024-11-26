@@ -1,0 +1,94 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "number": "+1234567890",
+      "age": 20,
+      "gender": "Male",
+      "address": "123 Main St, Springfield, IL, 62701"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "number": "+1234567891",
+      "age": 22,
+      "gender": "Female",
+      "address": "456 Elm St, Springfield, IL, 62702"
+    },
+    {
+      "id": 3,
+      "name": "Sam Wilson",
+      "email": "samwilson@example.com",
+      "number": "+1234567892",
+      "age": 19,
+      "gender": "Male",
+      "address": "789 Oak St, Springfield, IL, 62703"
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "email": "emilydavis@example.com",
+      "number": "+1234567893",
+      "age": 21,
+      "gender": "Female",
+      "address": "101 Maple Ave, Springfield, IL, 62704"
+    },
+    {
+      "id": 5,
+      "name": "Michael Brown",
+      "email": "michaelbrown@example.com",
+      "number": "+1234567894",
+      "age": 23,
+      "gender": "Male",
+      "address": "202 Pine St, Springfield, IL, 62705"
+    },
+    {
+      "id": 6,
+      "name": "Sarah Johnson",
+      "email": "sarahjohnson@example.com",
+      "number": "+1234567895",
+      "age": 20,
+      "gender": "Female",
+      "address": "303 Cedar St, Springfield, IL, 62706"
+    },
+    {
+      "id": 7,
+      "name": "Chris Lee",
+      "email": "chrislee@example.com",
+      "number": "+1234567896",
+      "age": 22,
+      "gender": "Male",
+      "address": "404 Walnut St, Springfield, IL, 62707"
+    },
+    {
+      "id": 8,
+      "name": "Anna Martinez",
+      "email": "annamartinez@example.com",
+      "number": "+1234567897",
+      "age": 21,
+      "gender": "Female",
+      "address": "505 Birch St, Springfield, IL, 62708"
+    },
+    {
+      "id": 9,
+      "name": "David Garcia",
+      "email": "davidgarcia@example.com",
+      "number": "+1234567898",
+      "age": 19,
+      "gender": "Male",
+      "address": "606 Cherry St, Springfield, IL, 62709"
+    },
+    {
+      "id": 10,
+      "name": "Laura Hernandez",
+      "email": "laurahernandez@example.com",
+      "number": "+1234567899",
+      "age": 20,
+      "gender": "Female",
+      "address": "707 Ash St, Springfield, IL, 62710"
+    }
+  ]
+}
